@@ -71,5 +71,3 @@ medicine-reminder-javafx/
 * Database integration (instead of file storage)
 * Enhanced UI/UX
 
-
-Your Na
